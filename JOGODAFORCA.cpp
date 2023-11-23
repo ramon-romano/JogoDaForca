@@ -224,7 +224,7 @@ void menuInicial(){
                 //Mostra informacoes do Jogo
                 cout << "Informacoes do jogo";
                 limpaTela();
-                cout << "Jogo desenvolvido por Joao em 2017";
+                cout << "Jogo desenvolvido por Ramon em 2023";
                 cout << "\n1 - Voltar";
                 cout << "\n2 - Sair";
                 cin >> opcao;
